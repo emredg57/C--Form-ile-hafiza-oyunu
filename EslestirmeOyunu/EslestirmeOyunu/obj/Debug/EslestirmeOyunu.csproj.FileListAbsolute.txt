@@ -1,0 +1,12 @@
+D:\C# odev\EslestirmeOyunu\EslestirmeOyunu\bin\Debug\EslestirmeOyunu.exe.config
+D:\C# odev\EslestirmeOyunu\EslestirmeOyunu\bin\Debug\EslestirmeOyunu.exe
+D:\C# odev\EslestirmeOyunu\EslestirmeOyunu\bin\Debug\EslestirmeOyunu.pdb
+D:\C# odev\EslestirmeOyunu\EslestirmeOyunu\obj\Debug\EslestirmeOyunu.csproj.AssemblyReference.cache
+D:\C# odev\EslestirmeOyunu\EslestirmeOyunu\obj\Debug\EslestirmeOyunu.csproj.SuggestedBindingRedirects.cache
+D:\C# odev\EslestirmeOyunu\EslestirmeOyunu\obj\Debug\EslestirmeOyunu.Form1.resources
+D:\C# odev\EslestirmeOyunu\EslestirmeOyunu\obj\Debug\EslestirmeOyunu.Properties.Resources.resources
+D:\C# odev\EslestirmeOyunu\EslestirmeOyunu\obj\Debug\EslestirmeOyunu.csproj.GenerateResource.cache
+D:\C# odev\EslestirmeOyunu\EslestirmeOyunu\obj\Debug\EslestirmeOyunu.csproj.CoreCompileInputs.cache
+D:\C# odev\EslestirmeOyunu\EslestirmeOyunu\obj\Debug\EslestirmeOyunu.exe
+D:\C# odev\EslestirmeOyunu\EslestirmeOyunu\obj\Debug\EslestirmeOyunu.pdb
+D:\C# odev\EslestirmeOyunu\EslestirmeOyunu\obj\Debug\EslestirmeOyunu.giris.resources
